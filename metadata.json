@@ -1,0 +1,5 @@
+{
+  "name": "Virtuosa Moda Cristã - Maquete 3D",
+  "description": "Uma maquete 3D interativa de uma loja de moda cristã, com alternância entre visão aérea e primeira pessoa, desenvolvida com React Three Fiber e Drei.",
+  "requestFramePermissions": []
+}
